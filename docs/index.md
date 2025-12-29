@@ -1,3 +1,10 @@
+
+---
+title: Domain 1: Manage Azure Identities and Governance
+nav_order: 2
+has_children: true
+---
+
 # Azure Administrator (AZ-104) Certification Training Guide
 
 ## DOMAIN 1: Manage Azure Identities and Governance (20-25%)

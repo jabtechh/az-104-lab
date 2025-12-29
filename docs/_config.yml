@@ -1,1 +1,18 @@
-theme: jekyll-theme-cayman
+title: AZ-104 Lab Guide
+remote_theme: just-the-docs/just-the-docs
+search_enabled: true
+nav_sort: case_insensitive
+aux_links:
+	GitHub Repository: https://github.com/jabtechh/az-104-lab
+logo: 
+	alt: "AZ-104 Logo"
+	src: ""
+color_scheme: "light"
+nav:
+	- title: "Home"
+		url: "/"
+	- title: "Domain 1: Manage Azure Identities and Governance"
+		url: "/index"
+		children:
+			- title: "Lab 1: Azure AD Fundamentals & Tenant Setup"
+				url: "/lab1"

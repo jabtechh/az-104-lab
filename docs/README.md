@@ -1,3 +1,9 @@
+
+---
+title: Home
+nav_order: 1
+---
+
 # Azure Administrator (AZ-104) Training Guide
 
 Welcome to the complete, comprehensive, and detailed training guide for the AZ-104: Microsoft Azure Administrator certification. This site is structured to help you master every aspect of the exam, with hands-on labs and best practices.

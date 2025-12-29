@@ -1,3 +1,10 @@
+
+---
+title: Lab 1: Azure AD Fundamentals & Tenant Setup
+parent: Domain 1: Manage Azure Identities and Governance
+nav_order: 1
+---
+
 # LAB 1: Azure Active Directory (Entra ID) Fundamentals & Tenant Setup
 
 ## Concepts First
