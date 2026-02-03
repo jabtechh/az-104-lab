@@ -1,0 +1,24 @@
+title: AZ-104 Lab Solutions
+description: My personal AZ-104 Microsoft Azure Administrator lab solutions and notes
+remote_theme: just-the-docs/just-the-docs
+exclude:
+  - readme.md
+  - .github/
+  - .obsidian/
+  - Allfiles/
+header_pages:
+  - index.html
+author: jabtechh
+github_username: jabtechh
+baseurl: /az-104-lab
+url: https://jabtechh.github.io
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+search_enabled: true
+color_scheme: dark
